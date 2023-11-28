@@ -1,4 +1,4 @@
-
+This is our first text put into git
 
 Remember to bring your ticket on Saturday
 
@@ -6,3 +6,5 @@ Hello World
 
 
 This is cool
+
+Github desktop is very cool
